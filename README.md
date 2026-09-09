@@ -14,8 +14,11 @@ I'm excited to see where I will be and how much I grew over the 12 weeks
 <summary>I Love playing the sims </summary>
 
 <ul>
-+ GTC 307oti
+
+  + GTC 307oti
+
 + AMD Ryzen 9 5600
+
 3+ 27" monitors
 </ul>
 
