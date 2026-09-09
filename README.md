@@ -9,13 +9,17 @@ My group name is Canary consultants
 I'm excited to see where I will be and how much I grew over the 12 weeks
 
 
+
+<details></details>
+<summary>I Love playing the sims </summary>
+
+<ul>
 * Reach me @ *
 [My email account] (tmcallister@icstars.org)
-<summary>I Love playing the sims </summary>
 + GTC 307oti
 + AMD Ryzen 9 5600
-3 + 27" monitors
-</details>
+3+ 27" monitors
+</ul>
 
 
 * Reach me @ *
