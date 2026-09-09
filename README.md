@@ -1,7 +1,7 @@
 <div>
 <img src="https://github.com/mcallistertamara.png" width="150" />
 
-#Hi, my name is Tamara
+## Hi, my name is Tamara
 </div>
 I am a intern at I.c. Stars
 I'm currently committing to a project for Medline
